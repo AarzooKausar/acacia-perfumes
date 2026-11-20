@@ -1,0 +1,6 @@
+{
+  "name": "ACACIA — Luxury Perfumes & Fragrances",
+  "description": "Discover your signature scent. Luxury fragrances crafted with rare botanicals, aged oud, and timeless elegance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
